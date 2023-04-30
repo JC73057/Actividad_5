@@ -413,7 +413,8 @@ footer {
     border-radius: 5px;
     -webkit-box-shadow: 10px 10px 5px 0px rgba(51,56,59,0.16);
     -moz-box-shadow: 10px 10px 5px 0px rgba(51,56,59,0.16);
-    box-shadow: 10px 10px 5px 0px rgba(51,56,59,0.16);    
+    box-shadow: 10px 10px 5px 0px rgba(51,56,59,0.16);
+    
   }
 
   .grid{
@@ -423,12 +424,12 @@ footer {
      
   }
 
-  #video {    
+  #my-video {    
     width: 50%;
     height: 300px;
     display: flex;
     padding: auto;
-   
+    border-radius: 10px;
     -webkit-box-shadow: 10px 10px 5px 0px rgba(51,56,59,0.16);
     -moz-box-shadow: 10px 10px 5px 0px rgba(51,56,59,0.16);
     box-shadow: 10px 10px 5px 0px rgba(51,56,59,0.16);  
@@ -440,14 +441,8 @@ footer {
     width: 50%;
     height: 300px;
     padding: auto;
-    color:#eacc8cea; 
+    color:yellow; 
   }
   .info{
-    color: #ffffff;
+    color: white;
   }
-  
-
-
-
-  
-
